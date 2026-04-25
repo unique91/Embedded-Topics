@@ -1,1 +1,1 @@
-# arduino-tutorial
+#  Learning playground for curious hardware developers
